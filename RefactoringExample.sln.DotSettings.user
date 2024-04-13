@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Michau\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_RefactoringExample.228751730\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a22ef50_002D5930_002D4d30_002Da828_002D64ea851fd484/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddUser_Should_Return_True_When_Normal_Client" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::71508FB2-4E7F-435B-9C1A-6796D9DF684D::net8.0::LegacyAppTests.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22241e6c_002D0cd1_002D43c6_002D8371_002D63b6f40bb333/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddUser_Should_Return_False_When_Credit_Limit_Below_500" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::71508FB2-4E7F-435B-9C1A-6796D9DF684D::net8.0::LegacyAppTests.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b9b8728_002De7ec_002D42e7_002D987b_002Ddbc80920aba7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UserServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::71508FB2-4E7F-435B-9C1A-6796D9DF684D::net8.0::LegacyAppTests.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6bee27ae_002D4fdd_002D4e66_002D8285_002D63fd15fc7bb8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UserServiceTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::71508FB2-4E7F-435B-9C1A-6796D9DF684D::net8.0::LegacyAppTests.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3db4b27_002D1d9c_002D4509_002D85e5_002D7f4c3f122f76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddUser_Should_Return_False_When_Email_Without_At_And_Dot" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::71508FB2-4E7F-435B-9C1A-6796D9DF684D::net8.0::LegacyAppTests.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af67c40b_002Dd5b9_002D4d6f_002Da179_002D8c43ed163a6f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddUser_Should_Return_True_When_Very_Important_Client" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::71508FB2-4E7F-435B-9C1A-6796D9DF684D::net8.0::LegacyAppTests.UserServiceTests.AddUser_Should_Return_True_When_Very_Important_Client&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
